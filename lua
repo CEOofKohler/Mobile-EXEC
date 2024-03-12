@@ -1,1 +1,1 @@
-loadstring(game:GetObjects("rbxassetid://418957341")[1].Source)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Universal/BypassedDarkDexV3.lua", true))()
